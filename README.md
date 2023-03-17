@@ -21,7 +21,7 @@ Utilizando apenas **PYTHON** e as bibliotecas:
 > - Plotly
 > - Pandas
 > - Jupyter
-> - Python
+
 
 
 ## 📜 Conteúdo
